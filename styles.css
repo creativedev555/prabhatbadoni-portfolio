@@ -1,0 +1,21 @@
+body {
+    color: red;
+}
+
+/* for making every h1 blue */
+h1 {
+    color: blue;
+}
+/* for makinf all h2 green */
+h2 {
+    color: green;
+}
+/* Selecting an element via id */
+#lib-header {
+    color: gray;
+}
+
+/* selecting an element via class */
+.para {
+    color: brown;
+}
