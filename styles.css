@@ -2,6 +2,7 @@
 
 :root {
     --primary-color: #8b5cf6;
+    --oof-white: #f4f4f5;
     --dark-zinc: #71717a;
 }
 
@@ -21,8 +22,8 @@ hr {
 }
 
 .container-center {
-max-width: 600px;
-margin: auto;
+    max-width: 600px;
+    margin: auto;
 }
 
 /** links **/
@@ -34,9 +35,9 @@ margin: auto;
 
 
 .link-primary {
- background-color: var(--primary-color);
- border-radius: 0.5rem;
- color: white;
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+    color: white;
 }
 
 .link-secondary {
@@ -101,4 +102,19 @@ margin: auto;
 
 .hero .hero-heading .header-inverted {
     color: var(--primary-color);
+}
+
+/** sections **/
+
+.section {
+    padding: 2rem;
+}
+
+.section h1 {
+    text-align: center;
+    
+}
+
+.ow     {
+    background-color: var(--oof-white);
 }
