@@ -2,6 +2,7 @@
 
 :root {
     --primary-color: #8b5cf6;
+    --dark-zinc: #71717a;
 }
 
 
@@ -79,4 +80,25 @@ margin: auto;
 
 .navigation .link-active {
     font-weight: bold;
+}
+
+/** header **/
+
+.hero {
+    padding: 2rem;
+}
+
+.hero .hero-img {
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading {
+    padding-top: 1rem;
+    color: var(--dark-zinc);
+}
+
+.hero .hero-heading .header-inverted {
+    color: var(--primary-color);
 }
