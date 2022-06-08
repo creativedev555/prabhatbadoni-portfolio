@@ -9,6 +9,7 @@
 
 body {
     font-family: 'Sora', sans-serif;
+    margin: 0px;
 }
 
 hr {
@@ -98,6 +99,7 @@ hr {
 .hero .hero-heading {
     padding-top: 1rem;
     color: var(--dark-zinc);
+    text-align: center;
 }
 
 .hero .hero-heading .header-inverted {
@@ -117,4 +119,22 @@ hr {
 
 .ow     {
     background-color: var(--oof-white);
+}
+
+/** footers **/
+
+.footer {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align:center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
 }
