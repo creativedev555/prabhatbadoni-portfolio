@@ -35,7 +35,6 @@ hr {
 
 .link {
     text-decoration: none;
-    
     box-sizing: border-box;
 }
 
@@ -53,6 +52,7 @@ hr {
 .link-secondary {
     color: var(--primary-color);
     border-radius: 2rem;
+    padding: 0.5rem 1rem;
     border: 1px solid var(--primary-color);
 }
 
