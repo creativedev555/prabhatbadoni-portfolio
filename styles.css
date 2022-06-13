@@ -93,6 +93,10 @@ hr {
     font-weight: bold;
 }
 
+nav {
+    display: block;
+}
+
 /** header **/
 
 .hero {
