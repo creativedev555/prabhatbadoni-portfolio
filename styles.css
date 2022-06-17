@@ -124,9 +124,9 @@ nav {
 
 .section {
     margin: 3rem auto;
-    padding: 0.5rem;
+   padding: 2rem;
     text-align: center;
-    
+    border-radius: 1rem;
 }
 
 .section h1 {
