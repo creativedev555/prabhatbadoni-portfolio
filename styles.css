@@ -21,7 +21,7 @@ hr {
 /** container **/
 
 .container {
-    padding: 0rem 1rem;
+    padding: 0rem 0.5rem;
     
 }
 
@@ -124,7 +124,7 @@ nav {
 
 .section {
     margin: 2rem;
-    padding: 2rem;
+    padding: 1rem;
     text-align: center;
     
 }
