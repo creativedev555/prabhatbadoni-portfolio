@@ -15,6 +15,7 @@ I am currently living in Dehradun.
 Currently learning web development on youtube.
 This is my portfolio website which has all the projects that i made as a part of level zero of Neogcamp.
 The concepts that are used are basics of html, css, javascript and react and then the site is hosted on netlify.
+You can see all my projects and also check out the blogs section.
 
 Skills I know:
 
